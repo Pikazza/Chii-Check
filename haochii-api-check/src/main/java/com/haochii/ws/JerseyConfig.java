@@ -25,5 +25,11 @@ public class JerseyConfig extends ResourceConfig {
         register(CustomExceptionMapper.class);
         register(JacksonJsonProvider.class);
     }
+    //release 1.0 commit codes testing
+    //
+    //
+    //
+    //
+    //testing completed
     
 }
